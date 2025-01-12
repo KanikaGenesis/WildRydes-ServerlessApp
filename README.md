@@ -2,10 +2,11 @@
 
 ## Description
 The Wild Rydes app is a serverless ride-sharing web application developed as a hands-on project to explore AWS services. This application allows users to register, log in, and request unicorn rides via an interactive map. It integrates multiple AWS services, including Amplify for hosting, Cognito for authentication, Lambda for backend logic, DynamoDB for database management, and API Gateway for API endpoints.
-This project is based on the original Amazon workshop, with config and enhancements added during implementation.
+
+This project is based on the original [Amazon workshop](https://aws.amazon.com/serverless-workshops/), with config and enhancements added during implementation.
 
 ## Documentation
-For a detailed walkthrough of the project setup, architecture, and implementation, please take a look at the [Project Documentation (PDF)](WildRydes%20WebApp.pdf).
+For a detailed walkthrough of the project setup, architecture, and implementation, please take a look at the [Project Documentation (PDF)](WildRydes%20WebApp.pdf) or visit the website for further exploration [here](https://main.d8cjydf59wmga.amplifyapp.com/).
 
 ## Architecture of the Wild Rydes application – showcasing serverless integration with AWS services
 ![Architecture](./architecture.png)
